@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&lines=Hi,+I'm+Sahil+Gupta;Full+Stack+Developer+(MERN);AI+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&lines=Hi,+I'm+Sahil+Gupta;MERN+Stack+Developer;AI+Enthusiast" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -9,10 +9,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I build **full stack web apps** and integrate **AI features**  
+- 🔭 I build **MERN stack web apps** and integrate **AI features**  
 - 🌱 Currently learning: **Java, DSA, System Design**  
 - 💡 Passionate about problem solving, coding challenges, and open source  
-- 🎯 Goal: Build world-class projects and grow as a full stack developer
+- 🎯 Goal: Build world-class projects and grow as a MERN Stack developer
 
 ---
 
@@ -34,11 +34,11 @@
 ---
 
 ### 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gupta28)  
-✉️ **Email:** sahilgupta28751@gmail.com  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sahiluc_)  
-> Let’s talk code, memes, and life on Insta 😎📸
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gupta28) &nbsp;&nbsp;
+  ✉️ **Email:** sahilgupta28751@gmail.com &nbsp;&nbsp;
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sahiluc_)
+</p>
 
 ---
 
