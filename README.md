@@ -1,9 +1,5 @@
-<h1 align="center">
-  👋 Hi, I’m Sahil Gupta
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&lines=Full+Stack+Web+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&lines=Hi,+I'm+Sahil+Gupta;Full+Stack+Developer+(MERN);AI+Enthusiast" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -29,18 +25,20 @@
 
 ### 🏆 Projects to Highlight
 
-| Project | Description |
-|--------|-------------|
-| **AI Code Reviewer** | Tool to analyze and review code using AI |
-| **MERN Todo App with Auth** | Full stack todo app with user authentication |
-| **JavaScript Mini Projects** | Collection of small apps & utilities for learning |
+| Project | Description | Live Link |
+|--------|-------------|-----------|
+| **AI Code Reviewer** | Tool to analyze and review code using AI | [Live Demo](https://ai-code-review-pearl.vercel.app/) |
+| **MERN Todo App with Auth** | Full stack todo app with user authentication | — |
+| **JavaScript Mini Projects** | Collection of small apps & utilities for learning | — |
 
 ---
 
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gupta28)  
-✉️ **Email:** sahilgupta28751@gmail.com
+✉️ **Email:** sahilgupta28751@gmail.com  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sahiluc_)  
+> Let’s talk code, memes, and life on Insta 😎📸
 
 ---
 
