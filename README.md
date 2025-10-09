@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&lines=Hi,+I'm+Sahil+Gupta+%F0%9F%91%8B;MERN+Stack+Developer;AI+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&lines=%F0%9F%91%8B+Hi,+I'm+Sahil+Gupta;MERN+Stack+Developer;AI+Enthusiast" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I build **Full stack web apps** and integrate **AI features**  
+- 🔭 I build **MERN stack web apps** and integrate **AI features**  
 - 🌱 Currently learning: **Java, DSA, System Design**  
 - 💡 Passionate about problem solving, coding challenges, and open source  
 - 🎯 Goal: Build world-class projects and grow as a MERN Stack developer
