@@ -33,14 +33,13 @@
 
 ---
 
-<p align="center">
-   ### 📬 Connect with Me
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gupta28)
-  &nbsp;&nbsp;
-  [![Email](https://img.shields.io/badge/Email-sahilgupta28751@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sahilgupta28751@gmail.com)
-  &nbsp;&nbsp;
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sahiluc_)
-</p>
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gupta28)
+&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-sahilgupta28751@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sahilgupta28751@gmail.com)
+&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sahiluc_)
 
 
 ---
