@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I build **MERN stack web apps** and integrate **AI features**  
+- 🔭 I build **Full stack web apps** and integrate **AI features**  
 - 🌱 Currently learning: **Java, DSA, System Design**  
 - 💡 Passionate about problem solving, coding challenges, and open source  
 - 🎯 Goal: Build world-class projects and grow as a MERN Stack developer
@@ -33,16 +33,15 @@
 
 ---
 
-### 📬 Connect with Me
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gupta28) &nbsp;&nbsp;
-  ✉️ **Email:** sahilgupta28751@gmail.com &nbsp;&nbsp;
+   ### 📬 Connect with Me
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gupta28)
+  &nbsp;&nbsp;
+  [![Email](https://img.shields.io/badge/Email-sahilgupta28751@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sahilgupta28751@gmail.com)
+  &nbsp;&nbsp;
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sahiluc_)
 </p>
 
-<p align="center">
-  Let’s talk code, memes, and life on Insta 😎📸
-</p>
 
 ---
 
