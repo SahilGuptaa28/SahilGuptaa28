@@ -16,6 +16,22 @@
 
 ---
 
+### 🧠 What I Do
+✅ Frontend Development (React, Tailwind, Vite)  
+✅ Backend APIs (Node, Express, MongoDB)  
+✅ AI Integration (LLMs, API-based features)  
+✅ Problem Solving & DSA (Java)  
+✅ Clean UI/UX & Optimization  
+
+---
+
+### 🌊
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,c,python,tailwind,vite" alt="Tech Icons" />
@@ -23,9 +39,16 @@
 
 ---
 
+### 🧰 Tools I Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,linux,figma,vercel,netlify,mongodb,intellij,eclipse,terminal" />
+</p>
+
+---
+
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilGuptaa28&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-gupta28&layout=compact&theme=tokyonight" />
 </p>
 
 ---
