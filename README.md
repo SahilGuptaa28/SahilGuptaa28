@@ -32,16 +32,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Languages, Frameworks & Tools)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,c,python,tailwind,vite" alt="Tech Icons" />
-</p>
-
----
-
-### 🧰 Tools I Use
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,linux,figma,vercel,netlify,mongodb,intellij,eclipse,terminal" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,python,tailwind,vite,git,github,linux,vscode,postman,figma,vercel,netlify,mongodb,intellij,eclipse,terminal" alt="Tech Icons" />
 </p>
 
 ---
