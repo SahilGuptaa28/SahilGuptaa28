@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&lines=👋+Hi,+I'm+Sahil+Gupta;💻+MERN+Stack+Developer;AI+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&lines=👋+Hi,+I'm+Sahil+Gupta;💻+MERN+Stack+Developer;🤖+AI+Enthusiast" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,c,python,tailwind,vite" alt="Tech Icons" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-gupta28)
 &nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-sahilgupta77236@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sahilgupta77236@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail&logoColor=white)](mailto:sahilgupta77236@gmail.com)
 &nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sahiluc_)
 
