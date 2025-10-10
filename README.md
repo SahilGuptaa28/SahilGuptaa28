@@ -28,7 +28,7 @@
 ### 🌊
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Animated Wave Divider" width="80%" />
 </p>
 
 ---
@@ -40,9 +40,25 @@
 
 ---
 
+### 🌊
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Animated Wave Divider" width="80%" />
+</p>
+
+---
+
 ### 📊 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilGuptaa28&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌊
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Animated Wave Divider" width="80%" />
 </p>
 
 ---
@@ -54,6 +70,14 @@
 | **AI Code Reviewer** | Tool to analyze and review code using AI | [Live Demo](https://ai-code-review-pearl.vercel.app/) |
 | **MERN Todo App with Auth** | Full stack todo app with user authentication | — |
 | **JavaScript Mini Projects** | Collection of small apps & utilities for learning | — |
+
+---
+
+### 🌊
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Animated Wave Divider" width="80%" />
+</p>
 
 ---
 
