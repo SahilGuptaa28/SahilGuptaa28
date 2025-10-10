@@ -25,25 +25,9 @@
 
 ---
 
-### 🌊
-
-<p align="center">
-  🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
-</p>
-
----
-
 ### 🛠️ Tech Stack (Languages, Frameworks & Tools)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,python,tailwind,vite,git,github,linux,vscode,postman,figma,vercel,netlify,mongodb,intellij,eclipse,terminal" alt="Tech Icons" />
-</p>
-
----
-
-### 🌊
-
-<p align="center">
-  🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
 </p>
 
 ---
@@ -55,14 +39,6 @@
 
 ---
 
-### 🌊
-
-<p align="center">
-  🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
-</p>
-
----
-
 ### 🏆 Projects to Highlight
 
 | Project | Description | Live Link |
@@ -70,14 +46,6 @@
 | **AI Code Reviewer** | Tool to analyze and review code using AI | [Live Demo](https://ai-code-review-pearl.vercel.app/) |
 | **MERN Todo App with Auth** | Full stack todo app with user authentication | — |
 | **JavaScript Mini Projects** | Collection of small apps & utilities for learning | — |
-
----
-
-### 🌊
-
-<p align="center">
-  🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊
-</p>
 
 ---
 
