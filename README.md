@@ -23,6 +23,13 @@
 
 ---
 
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-gupta28&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### 🏆 Projects to Highlight
 
 | Project | Description | Live Link |
