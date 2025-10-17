@@ -43,9 +43,10 @@
 
 | Project | Description | Live Link |
 |--------|-------------|-----------|
+| **GoStay** | Full-stack hotel booking web application with admin dashboard, Stripe payments, and Clerk authentication | [Live Demo](https://gostay-orcin.vercel.app) |
 | **AI Code Reviewer** | Tool to analyze and review code using AI | [Live Demo](https://ai-code-review-pearl.vercel.app/) |
 | **MERN Todo App with Auth** | Full stack todo app with user authentication | — |
-| **JavaScript Mini Projects** | Collection of small apps & utilities for learning | — |
+
 
 ---
 
