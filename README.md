@@ -44,7 +44,7 @@
 
 | Project | Description | Live Link |
 |----------|-------------|-----------|
-| **PlugAI** | AI-powered SaaS chatbot platform with Next.js, TypeScript, MongoDB, Razorpay integration, NextAuth authentication, and embeddable chatbot widget | — |
+| **PlugAI** | AI-powered SaaS chatbot platform with Next.js, TypeScript, MongoDB, Razorpay integration, NextAuth authentication, and embeddable chatbot widget | [Live Demo](https://plugai.vercel.app/) |
 | **GoStay** | Full-stack hotel booking platform with admin dashboard, Stripe payments, Clerk authentication, and reservation management | [Live Demo](https://gostay-orcin.vercel.app) |
 | **AI Code Reviewer** | AI-powered code review platform with real-time suggestions using Google Gemini API | [Live Demo](https://ai-code-review-pearl.vercel.app/) |
 
