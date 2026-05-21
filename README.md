@@ -27,14 +27,14 @@
 
 ### 🛠️ Tech Stack (Languages, Frameworks & Tools)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,python,tailwind,vite,git,github,linux,vscode,postman,figma,vercel,netlify,mongodb,intellij,eclipse,terminal" alt="Tech Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,express,mongodb,java,c,python,tailwind,vite,git,github,linux,vscode,postman,figma,vercel,netlify,intellij,eclipse,terminal" alt="Tech Icons" />
 </p>
 
 ---
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilGuptaa28&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilGuptaa28&layout=compact&theme=tokyonight" />
 </p>
 
 ---
