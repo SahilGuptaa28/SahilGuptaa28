@@ -17,11 +17,12 @@
 ---
 
 ### 🧠 What I Do
-✅ Frontend Development (React, Tailwind, Vite)  
-✅ Backend APIs (Node, Express, MongoDB)  
-✅ AI Integration (LLMs, API-based features)  
+✅ Frontend Development (React, Next.js, Tailwind CSS, Vite)  
+✅ Backend APIs (Node.js, Express.js, MongoDB)  
+✅ Type-Safe Development with TypeScript  
+✅ AI Integration (LLMs, API-based Features)  
 ✅ Problem Solving & DSA (Java)  
-✅ Clean UI/UX & Optimization  
+✅ Clean UI/UX & Performance Optimization  
 
 ---
 
